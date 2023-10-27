@@ -1,0 +1,26 @@
+{
+  "name": "minimalist-test-lib",
+  "version": "1.0.0",
+  "description": "A minimalist example to understand the fundaments of test libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLopezJ/minimalist-test-lib.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mauro Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLopezJ/minimalist-test-lib/issues"
+  },
+  "homepage": "https://github.com/MLopezJ/minimalist-test-lib#readme",
+  "devDependencies": {
+    "typescript": "5.1.6",
+    "tsx": "3.12.7"
+  }
+}
