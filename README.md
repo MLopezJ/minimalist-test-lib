@@ -2,6 +2,15 @@
 A minimalist example to understand the fundaments of test libraries*. 
 > *jest is taken as a reference
 
+## Installation
+```
+npm install
+```
+
+## Tests
+```
+npm test
+```
 
 ## Requirements
 1-It is required to create a program that allows to check if the result of a method (sync and async) is the expected. The assertion should follow the following format:

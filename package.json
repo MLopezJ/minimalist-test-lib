@@ -4,7 +4,7 @@
   "description": "A minimalist example to understand the fundaments of test libraries",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx tsx **/**.spec.ts"
   },
   "repository": {
     "type": "git",
