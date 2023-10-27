@@ -1,5 +1,5 @@
 # Minimalist Test Lib
-A minimalist example to understand the fundaments of test libraries*. 
+A kata about a minimalist example to understand the fundaments of test libraries*. 
 > *jest is taken as a reference
 
 ## Installation
@@ -13,7 +13,7 @@ npm test
 ```
 
 ## Requirements
-1-It is required to create a program that allows to check if the result of a method (sync and async) is the expected. The assertion should follow the following format:
+1-It is required to create a program that allows checking if the result of a method (sync and async) is the expected. The assertion should follow the following format:
 ```
 expect(result).toBe(expected)
 ```
